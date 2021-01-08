@@ -1,0 +1,196 @@
+*{
+    margin: 0px;
+    block-size: auto;
+    
+}
+p{
+    color: red;
+    
+}
+.giohang img{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    right: 1%;
+    margin-top: 18px;
+}
+.bg{
+    background-image: url('img/back1a.jpg');
+    background-size: 100%;
+}
+.mh{
+    min-height: 720px;
+}
+.relati{
+    position: relative;
+}
+
+.row{
+    float: left;
+    width: 100%;
+}
+.row1{
+    float: left;
+    width: 100%;
+}
+.top{
+    
+    min-height: 60px;
+    margin-top: 30px;
+}
+.logo{
+    width: 10%;
+    
+    min-height: 60px;
+    float: left;
+}
+.logo img{
+    height: 60px;
+    width: 100%;
+}
+.boxcenter{
+    width: 70%;
+   margin: 0 auto;
+}
+.boxcenter1{
+    width: 40%;
+   margin: 0 auto;
+}
+.menu{
+    line-height: 60px;
+    float: left;
+    margin-left: 5%;
+}
+.menu a{
+    text-decoration: none;
+    margin: 0 20px;
+    color: black;
+    font-size: 16pt;
+    font-weight: bold;
+}
+.menu a:hover{
+    color: turquoise;
+    transition: 0.5s;
+}
+.login img{
+    float: left;
+    width: 6%;
+    margin-top: 6px;
+    min-height: 30px;
+    margin-right: 10px;
+}
+.logintext a{
+   
+    position: absolute;
+    top: 20px;
+    right: 5;
+    text-decoration: none;
+        
+        color:turquoise;
+        font-size: 15pt;
+        font-weight: bold;
+        
+        
+}
+.cen{
+    border-radius: 10px;
+    border: 2px black solid;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 300px;
+    background-color:ghostwhite;
+}
+.dangnhap p{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.id input{
+    width: 200px;
+    height: 25px;
+    border-radius: 1px ;
+    border: 1px black solid;
+}
+.pa input{
+    width: 200px;
+    height: 25px;
+    border-radius: 1px ;
+    border: 1px black solid;
+}
+.btlogin button{
+    width: 200px;
+    height: 25px;
+    color: #ffffff;
+    background: #5e9cd1;
+    border-color: #5e9cd1;
+}
+.brfooter{
+    background-color: black;
+}
+.ip label{
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+}
+.ip input{
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    background-color: black;
+    border: 2px white solid;
+    width: 200px;
+    height: 25px;
+}
+.sub a{
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 66%;
+    background-color: black;
+    border: 2px white solid;
+    text-decoration: none;
+    height: 25px;
+}
+.sub a:hover{
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
+.link a{
+    position: absolute;
+    color: white;
+   margin-top: 80px;
+    left: 20%;
+    
+}
+.btt a{
+    position: absolute;
+    color: white;
+   margin-top: 120px;
+    left: 22%;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+.btt img{
+    position: absolute;
+    margin-top: 120px;
+    left: 20%;
+}
+.foo p{
+    position: absolute;
+    color: white;
+    margin-top: 120px;
+    left: 50%;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+.mh3{
+    min-height: 250px;
+    
+}
+
+
+

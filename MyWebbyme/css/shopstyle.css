@@ -1,0 +1,201 @@
+*{
+    margin: 0px;
+    
+    box-sizing: border-box;
+}
+.giohang img{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    right: 1%;
+    margin-top: 18px;
+}
+.bimg1{
+    background-image: url('img/back1a.jpg');
+    background-size: 100%;
+}
+.boxcenter{
+    width: 70%;
+   margin: 0 auto;
+}
+.row{
+    float: left;
+    width: 100%;
+}
+.mh{
+    min-height: 100px;
+    background-color: gainsboro;
+}
+.top{
+    
+    min-height: 60px;
+    margin-top: 30px;
+}
+.logo{
+    width: 10%;
+    
+    min-height: 60px;
+    float: left;
+}
+.logo img{
+    height: 60px;
+    width: 100%;
+}
+.login img{
+    float: left;
+    width: 6%;
+    margin-top: 6px;
+    min-height: 30px;
+    margin-right: 10px;
+}
+.logintext a{
+   
+    position: absolute;
+    top: 15px;
+    right: 5;
+    text-decoration: none;
+        
+        color:turquoise;
+        font-size: 15pt;
+        font-weight: bold;
+        
+        
+}
+.relati{
+    position: relative;
+}
+.menu{
+    line-height: 60px;
+    float: left;
+    margin-left: 5%;
+}
+.menu a{
+    text-decoration: none;
+    margin: 0 20px;
+    color: black;
+    font-size: 16pt;
+    font-weight: bold;
+}
+.menu a:hover{
+    color: turquoise;
+    transition: 0.5s;
+}
+.text{
+    text-align: center;
+    margin-top: 20px;
+}
+.text p{
+    font-size: 30pt;
+    font-weight: bold;
+}
+.box{
+    width: 23.5%;
+    min-height: 200px;
+    float: left;
+    position: relative;
+    
+}
+.box img:hover{ 
+    border: 4px black solid; 
+    }
+.box img{
+     width: 230px;
+     min-height: 252px;
+     float: left;
+     margin: 0 auto;
+        
+}
+.box p{
+    text-align: center;
+}
+.buy{
+    margin-top: 10px;
+    width: 23.5%;
+    min-height: 50px;
+    float: left;
+    text-align: center;
+}
+.buy a{
+    border: 1px black solid;
+    text-decoration: none;
+    background-color:black;
+    color: white;
+    font-size: 15pt;
+}
+.buy a:hover{
+    border: 2px black solid;
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
+.gia p{
+    color: red;
+    font-size: 15pt;
+}
+.mh3{
+    min-height: 250px;
+    
+}
+.brfooter{
+    background-color: black;
+}
+.ip label{
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+}
+.ip input{
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    background-color: black;
+    border: 2px white solid;
+    width: 200px;
+    height: 25px;
+}
+.sub a{
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 66%;
+    background-color: black;
+    border: 2px white solid;
+    text-decoration: none;
+    height: 25px;
+}
+.sub a:hover{
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
+.link a{
+    position: absolute;
+    color: white;
+   margin-top: 80px;
+    left: 20%;
+    
+}
+.btt a{
+    position: absolute;
+    color: white;
+   margin-top: 120px;
+    left: 22%;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+.btt img{
+    position: absolute;
+    margin-top: 120px;
+    left: 20%;
+}
+.foo p{
+    position: absolute;
+    color: white;
+    margin-top: 120px;
+    left: 50%;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
